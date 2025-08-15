@@ -106,7 +106,7 @@
 ## 🙏 Acknowledgements
 
 <div class="section-container">
-    <p>The development of SRAC was supported by the Department of Computer Science and Engineering at ACS College of Engineering, under the guidance of Dr. T Senthil Kumaran.</p>
+    <p>The development of SRAC was supported by my Father (JNM).</p>
 </div>
 
 ---
