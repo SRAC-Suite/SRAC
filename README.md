@@ -110,6 +110,8 @@
 </div>
 
 ---
+> **Note :**  SRAC is a commercial product for educational institutions. Pricing based on student count (starting $100-250 per institution). Contact via [**LinkedIn**](https://www.linkedin.com/in/tanishq-jm) for licensing details & other information.
+---
 
 ## 📞 Support
 
