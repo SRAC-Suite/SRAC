@@ -1,13 +1,13 @@
 <div class="logo-container">
 </div>
 
-# SRAC: Student Result Analysis Compiler
+# SRAC: Student Result Analysis Core
 ---
 
 ## Overview
 
 <div class="section-container">
-    <p><strong>SRAC (Student Result Analysis Compiler)</strong> is a purpose-built application designed to automate and optimize the process of analyzing student academic results for educational institutions. It replaces time-consuming manual workflows with a fast, accurate, and efficient automated system.</p>
+    <p><strong>SRAC (Student Result Analysis Core)</strong> is a purpose-built application designed to automate and optimize the process of analyzing student academic results for educational institutions. It replaces time-consuming manual workflows with a fast, accurate, and efficient automated system.</p>
     <p><strong>Challenge Addressed:</strong> Manual processing of student results is inherently slow, susceptible to errors, and scales poorly with large student numbers.</p>
     <p><strong>SRAC Solution:</strong> Provides a robust tool to significantly reduce processing time, enhance data accuracy, and deliver comprehensive analytical insights with minimal manual intervention.</p>
 </div>
