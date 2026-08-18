@@ -95,6 +95,7 @@
 
 ## 📊 Performance vs. Manual Analysis
 
+
 <div class="section-container">
     <p>SRAC replaces slow, error-prone manual result processing with a fast, consistent, automated pipeline — accuracy and output quality hold steady no matter how large the batch gets.</p>
     <ul>
@@ -109,8 +110,9 @@
         <tbody>
             <tr><td>40</td><td>2.5 hours</td><td>5 minutes</td><td>~30×</td></tr>
             <tr><td>180</td><td>9.5 hours</td><td>7 minutes</td><td>~81×</td></tr>
-            <tr><td>310</td><td>11.5 hours</td><td>10 minutes</td><td>~69×</td></tr>
-            <tr><td>540</td><td>28.5 hours</td><td>12 minutes</td><td>~114×</td></tr>
+            <tr><td>210</td><td>11.5 hours</td><td>10 minutes</td><td>~69×</td></tr>
+            <tr><td>540</td><td>28.5 hours</td><td>15 minutes</td><td>~114×</td></tr>
+            <tr><td>570+</td><td>29.5 hours</td><td>18 minutes</td><td>~98×</td></tr>
         </tbody>
     </table>
     <p><em>Processing time may vary depending on hardware configuration, internet speed, and system performance. Figures above are representative examples for planning and comparison purposes.</em></p>
