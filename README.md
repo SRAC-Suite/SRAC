@@ -1,3 +1,5 @@
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/license-Proprietary-red)
 <div class="logo-container">
 </div>
 
@@ -8,8 +10,8 @@
 
 <div class="section-container">
     <p><strong>SRAC (Student Result Analysis Core)</strong> is a purpose-built application designed to automate and optimize the process of analyzing student academic results for educational institutions. It replaces time-consuming manual workflows with a fast, accurate, and efficient automated system.</p>
-    <p><strong>Challenge Addressed:</strong> Manual processing of student results is inherently slow, susceptible to errors, and scales poorly with large student numbers.</p>
-    <p><strong>SRAC Solution:</strong> Provides a robust tool to significantly reduce processing time, enhance data accuracy, and deliver comprehensive analytical insights with minimal manual intervention.</p>
+    <p><strong>Challenge Addressed:</strong> Manual processing of student results is slow, repetitive, error-prone, and difficult to scale when large student batches are involved.</p>
+    <p><strong>SRAC Solution:</strong> SRAC automates the entire flow of result PDF downloading, data extraction, analysis, and Excel-ready reporting, helping institutions process academic data with greater speed and accuracy.</p>
 </div>
 
 ---
@@ -17,12 +19,17 @@
 ## 🎬 Application Demo
 
 <div class="section-container">
-    <p>Observe the workflow and capabilities of SRAC:</p>
+    <p>Watch the SRAC workflow and understand how the system processes academic data end-to-end:</p>
     <div style="text-align: center;">
-        <a href="https://www.youtube.com/watch?v=NV3BSmPhQcU" target="_blank">
-            <img src="https://img.youtube.com/vi/NV3BSmPhQcU/0.jpg" alt="SRAC Demo Video" style="max-width: 80%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <a href="https://youtube.com/playlist?list=PLBYb_J3gY2OgKAE2GSYMp8mxbhNiOom-7&si=7B2uXpI2iEtIHbx0" target="_blank">
+            <img src="https://img.youtube.com/vi/NV3BSmPhQcU/0.jpg" alt="SRAC Tutorial Playlist" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
         </a>
-        <p><em>(Click the image above to watch the demonstration on YouTube)</em></p>
+        <p><em>Click the image above to access the SRAC tutorial playlist and official demo resources.</em></p>
+        <p>
+            <a href="https://youtube.com/playlist?list=PLBYb_J3gY2OgKAE2GSYMp8mxbhNiOom-7&si=7B2uXpI2iEtIHbx0"><img src="https://img.shields.io/badge/YouTube-Tutorial%20Playlist-red?logo=youtube&logoColor=white" alt="YouTube Tutorial Playlist"></a>
+            <a href="https://srac-suite.github.io/srac-web/index.html"><img src="https://img.shields.io/badge/Website-srac--suite.github.io-4FD8C4?logo=googlechrome&logoColor=white" alt="Official Website"></a>
+            <a href="https://github.com/SRAC-Suite/SRAC/releases"><img src="https://img.shields.io/badge/GitHub-Releases-181717?logo=github&logoColor=white" alt="GitHub Releases"></a>
+        </p>
     </div>
 </div>
 
@@ -32,28 +39,28 @@
 
 <div class="section-container">
     <div class="feature-box">
-        <h4>Process Automation</h4>
-        <p>Eliminates manual data handling in result download, extraction, and analysis, minimizing errors and saving significant time.</p>
+        <h4>Automated Result Download</h4>
+        <p>SRAC downloads result PDFs directly from authorized academic portals, reducing manual effort and saving time.</p>
     </div>
     <div class="feature-box">
-        <h4>Versatile Reporting</h4>
-        <p>Generate and export results in multiple standard formats (PDF, Excel) and customizable templates suitable for institutional needs.</p>
+        <h4>Result PDF Analysis</h4>
+        <p>The software extracts and processes result data efficiently, turning raw PDF files into structured academic information.</p>
     </div>
     <div class="feature-box">
-        <h4>Automated PDF Integration</h4>
-        <p>Intelligently processes source PDF result files, automating data extraction.</p>
+        <h4>Excel-Ready Output</h4>
+        <p>It prepares clean, organized data sheets suitable for academic reporting, record keeping, and institutional analysis.</p>
+    </div>
+    <div class="feature-box">
+        <h4>Subject-Wise Performance Analysis</h4>
+        <p>Institutions can review results by subject, student, semester, or batch with greater clarity and less effort.</p>
     </div>
     <div class="feature-box">
         <h4>Data Management</h4>
-        <p>Includes features for secure report backup and options for direct distribution via email.</p>
+        <p>Includes backup-friendly workflows and reporting support for institutional use.</p>
     </div>
     <div class="feature-box">
-        <h4>In-Depth Analysis</h4>
-        <p>Enables generation of detailed reports for individual students and comparative analysis across subjects.</p>
-    </div>
-    <div class="feature-box">
-        <h4>Enhanced Visualization</h4>
-        <p>Presents complex data through clear, color-coded graphs and charts for improved comprehension and decision-making.</p>
+        <h4>Visualization & Reporting</h4>
+        <p>SRAC creates easy-to-understand reports and performance summaries that support better decision-making.</p>
     </div>
 </div>
 
@@ -64,41 +71,49 @@
 <div class="section-container">
     <h3>Prerequisites</h3>
     <ul>
-        <li><strong>External Dependencies:</strong> All required components will be included in the package. Simply run the installer and restart your system to begin using SRAC.</li>
+        <li><strong>Authorized Access:</strong> SRAC is designed for educational institutions and authorized users only.</li>
+        <li><strong>Installation Guidance:</strong> Follow the installer video and release instructions carefully before using the software.</li>
     </ul>
     <h3>Installation Steps</h3>
     <ol>
         <li>Navigate to the <strong><a href="https://github.com/SRAC-Suite/SRAC/releases">Releases Section</a></strong> of this repository.</li>
-        <li>Download the latest installer package.</li>
-        <li>Execute the installer and follow the provided setup instructions.</li>
+        <li>Download the latest approved installer.</li>
+        <li>Follow the installation instructions provided in the official tutorial and release documentation.</li>
     </ol>
     <h3>Basic Operation</h3>
     <ol>
-      <li>Launch SRAC from your desktop or start menu</li>
-      <li>Input the USN list and result download URL in the designated fields</li>
-      <li>Navigate to the PDF section and select target result files</li>
-      <li>Process and generate the revaluation PDF documents</li>
-      <li>Use the email module to distribute reports to management</li>
-      <li>Create secure backups of all generated data</li>
-      <li>View comprehensive reports in your specified output folder</li>
+      <li>Launch SRAC from your desktop or start menu.</li>
+      <li>Enter the required USN list and result download link or source.</li>
+      <li>Navigate to the PDF section and select the relevant result files.</li>
+      <li>Process the result data and generate the final academic analysis.</li>
+      <li>Review the Excel-ready outputs and summary reports.</li>
+      <li>Use the reporting and backup features for institutional record management.</li>
     </ol>
 </div>
 
 ---
 
-## 📊 Performance Advantage
+## 📊 Performance vs. Manual Analysis
 
 <div class="section-container">
-    <p>SRAC delivers substantial improvements in efficiency and reliability compared to manual methods:</p>
+    <p>SRAC replaces slow, error-prone manual result processing with a fast, consistent, automated pipeline — accuracy and output quality hold steady no matter how large the batch gets.</p>
     <ul>
-        <li><strong>Unmatched Speed:</strong> Reduces processing time by over <strong>99%</strong>. Analysis tasks that typically take days are completed within <strong>minutes</strong>.
-            <ul>
-                <li><em>Efficiency Example:</em> Processing results for over 500 students can be achieved in approximately <strong>12 minutes</strong>.</li>
-            </ul>
-        </li>
-        <li><strong>Guaranteed Accuracy:</strong> Automation eliminates the risk of human error in data transcription and calculation.</li>
-        <li><strong>Scalability & Consistency:</strong> Maintains high performance and reliability regardless of the volume of data being processed.</li>
+        <li><strong>Precise for valid input</strong>, where manual work is prone to transcription errors</li>
+        <li><strong>Stable, repeatable performance</strong>, where manual quality varies with skill and fatigue</li>
+        <li><strong>Scales efficiently to large batches</strong>, where manual workflows fail to scale smoothly</li>
     </ul>
+    <table>
+        <thead>
+            <tr><th>Students</th><th>Manual Time</th><th>SRAC Time</th><th>Speedup</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>40</td><td>2.5 hours</td><td>5 minutes</td><td>~30×</td></tr>
+            <tr><td>180</td><td>9.5 hours</td><td>7 minutes</td><td>~81×</td></tr>
+            <tr><td>310</td><td>11.5 hours</td><td>10 minutes</td><td>~69×</td></tr>
+            <tr><td>540</td><td>28.5 hours</td><td>12 minutes</td><td>~114×</td></tr>
+        </tbody>
+    </table>
+    <p><em>Processing time may vary depending on hardware configuration, internet speed, and system performance. Figures above are representative examples for planning and comparison purposes.</em></p>
 </div>
 
 ---
@@ -106,11 +121,21 @@
 ## 🙏 Acknowledgements
 
 <div class="section-container">
-    <p>The development of SRAC was supported by my Father (JNM).</p>
+    <p>SRAC was developed by Tanishq JM & The development of SRAC was supported by my Father (JNM).</p>
 </div>
 
 ---
-> **Note :**  SRAC is a commercial product for educational institutions. Pricing based on student count (starting $100-250 per institution). Contact via [**LinkedIn**](https://www.linkedin.com/in/tanishq-jm) for licensing details & other information.
+> **Note:** SRAC is a commercial product intended for educational institutions and authorized users. Licensing is based on institutional requirements and student volume. For licensing details and information, contact via [**LinkedIn**](https://www.linkedin.com/in/tanishq-jm).
+---
+
+## 🔒 Authorized Use Only
+
+SRAC is not intended for unrestricted public use. It is meant for authorized institutions, authorized administrators, and designated users only.
+
+If users do not follow the required agreement, instructions, and installation guidance provided in the installer video and release documentation, the software will be removed / deleted from the system.
+
+Users must operate SRAC only within the authorized institutional and licensing framework.
+
 ---
 
 ## 📞 Support
