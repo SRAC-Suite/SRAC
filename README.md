@@ -102,9 +102,6 @@ Excel, PDF and Word reports.
 **Who can use SRAC?**
 Authorized educational institutions and their designated users.
 
-**Is the SRAC source code available?**
-No. Only the `.exe` releases are published.
-
 **Why was "Compiler" changed to "Core"?**
 "Compile" was used in its everyday meaning, compiling many result files into one report. Because "compiler" has a specific meaning in computer science, the name was changed to "Core". The product and the short name SRAC are unchanged.
 
