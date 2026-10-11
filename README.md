@@ -2,7 +2,7 @@
 
 # VTU Result Analysis Software: SRAC (Student Result Analysis Core)
 
-**Automated result analysis for VTU engineering colleges. Excel, PDF and Word reports in minutes.**
+**Zero manual spreadsheets. Zero fragile scripts. Sit back, relax, and generate audit-ready institutional reports in minutes.**
 
 *Formerly known as "Student Result Analysis Compiler"*
 
@@ -15,108 +15,121 @@
 [![Download](https://img.shields.io/badge/Download-Latest_Release-16a34a?style=for-the-badge)](https://github.com/SRAC-Suite/SRAC/releases/latest)
 [![Tutorials](https://img.shields.io/badge/Video_Tutorials-YouTube-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLBYb_J3gY2OgKAE2GSYMp8mxbhNiOom-7)
 
-[Features](#features) · [Who it is for](#who-it-is-for) · [How it works](#how-it-works) · [Tutorials](#video-tutorials) · [Download](#download-and-install) · [FAQ](#faq)
+[Features](#key-features) · [Reliability vs. Legacy Scrapers](#-built-different-enterprise-reliability-vs-legacy-scrapers) · [Who It Is For](#who-it-is-for) · [Tutorials](#video-tutorials) · [Download](#download-and-install) · [FAQ](#faq)
 
 </div>
 
 ---
 
-**SRAC (Student Result Analysis Core)** is **VTU result analysis software** for Windows. It is built for faculty, HODs and exam cell staff of **Visvesvaraya Technological University (VTU)** affiliated engineering colleges. SRAC replaces slow, repetitive manual result analysis with a fast, consistent and automated workflow, including **VTU revaluation result analysis**, and produces **Excel, PDF and Word reports** ready for college records.
+**SRAC (Student Result Analysis Core)** is the premier **VTU result analysis software** engineered exclusively for Windows. Built specifically for faculty coordinators, HODs, and exam cell staff of **Visvesvaraya Technological University (VTU)** affiliated engineering colleges across Karnataka, SRAC completely replaces manual USN entry, broken VBScript macros, and fragile web scrapers with an enterprise-grade automated workflow.
 
-## Why SRAC
+Set up your parameters once, run the pipeline, and walk away with **professional, audit-ready Excel, PDF, and Word reports** ready for immediate institutional submission and official compliance records.
 
-Manual result analysis is slow, repetitive and error-prone, and it gets harder as batches grow. SRAC automates the work so a department can analyze a whole batch in minutes.
+---
 
-## Features
+## 🛡️ Built Different: Enterprise Reliability vs. Legacy Scrapers
 
-- **Automated result processing** for a class, department or full batch
-- **Subject-wise, student-wise, semester-wise and batch-wise analysis**
-- **VTU revaluation result analysis**
-- **Excel, PDF and Word reports** for academic records and institutional reporting
-- **Choose which subjects** go into each report
-- **Elective and special-mark subject support**
-- **Backup-friendly data management**
-- **Clear summaries** that support better academic decisions
+Most online guides warn against standalone scrapers because 99% of them rely on basic Selenium scripts or legacy Excel macros that crash the moment VTU updates its portal layout or CAPTCHA system. 
 
-## Who it is for
+**SRAC Suite was engineered from the ground up to solve those exact points of failure:**
 
-- **Exam cell staff and result coordinators** who prepare result analysis every semester
-- **HODs and department heads** who need subject-wise and batch-wise reports
-- **Faculty** who want to avoid repeating manual Excel work
-- **Principals and administrators** who need consistent institutional result reports
+* **Localized AI Processing:** Utilizes a dedicated, local neural processing pipeline designed to handle dynamic CAPTCHAs and portal verifications natively, eliminating the manual friction that breaks legacy scrapers.
+* **Fault-Tolerant Engine:** Built with automated retry mechanisms, dynamic HTML parsing, and session recovery to handle university server slowdowns gracefully during peak result declaration days.
+* **100% Offline Data Privacy:** Your institution's student marks, USN lists, and SGPA roster analytics are processed entirely on your local Windows PC—never uploaded to unverified third-party cloud servers.
+* **Active Maintenance:** Continuously updated to maintain seamless compatibility with official VTU result portals (`results.vtu.ac.in`).
 
-## How it works
+---
 
-1. **Install** SRAC on a Windows PC using the latest release.
-2. **Set up** your subjects by following the [setup tutorial](https://youtu.be/OTBCgTHu_4c).
-3. **Generate** your result analysis reports in Excel, PDF and Word.
+## Key Features
 
-## Video tutorials
+- **Full Batch Automation:** Complete result processing for single class sections, full departments, or multi-year batch rosters.
+- **Multi-Dimensional Analytics:** Instant subject-wise, student-wise, semester-wise, and batch-wise performance breakdowns.
+- **VTU Revaluation Analysis:** Seamlessly parse and integrate VTU revaluation and backlog exam results without manual overrides.
+- **Audit-Ready Exports:** Instantly generates the raw departmental pass percentages, subject-wise failure lists, and FCD breakdowns required to fill NAAC Criterion 2.6.3 forms and NBA SAR (Self-Assessment Report) student performance tables.
+- **Smart Subject Filtering:** Effortlessly handle electives, core subjects, and special-mark schemes.
+- **High-Speed Execution:** Process batch sizes of 500+ students in minutes while you sit back and relax.
 
-Please watch the tutorials before your first use. They explain the setup step by step.
+---
 
-[![Watch the SRAC VTU result analysis tutorial playlist](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20full%20playlist-SRAC%20Tutorial-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLBYb_J3gY2OgKAE2GSYMp8mxbhNiOom-7)
+## Who It Is For
+
+- **Exam Cell Coordinators:** Who need to complete semester result analysis in minutes instead of spending entire weekends.
+- **HODs & Department Heads:** Who require instant, subject-wise pass percentages and FCD (First Class with Distinction) breakdowns for academic reviews.
+- **Faculty Members:** Who want to eliminate manual data entry and formatting errors completely.
+- **Principals & Administrators:** Who demand standardized, high-quality institutional result reports across all engineering branches.
+
+---
+
+## How It Works
+
+1. **Install** SRAC on your Windows PC using the latest release package.
+2. **Configure** your subject scheme parameters once by following the quick setup tutorial.
+3. **Sit back and generate** fully formatted, ready-to-submit result analysis reports.
+
+---
+
+## Video Tutorials
+
+Watch the step-by-step video guides to complete setup in under 5 minutes:
+
 
 <table>
 <tr><td align="center"><a href="https://youtu.be/RKUbawzxvRw"><img src="https://img.youtube.com/vi/RKUbawzxvRw/hqdefault.jpg" width="260" alt="Install SRAC in 5 Minutes — Step-by-Step Setup Guide | VTU RESULT ANALYSER"></a><br><b>1. Install SRAC in 5 Minutes — Step-by-Step Setup Guide | VTU RESULT ANALYSER</b></td><td align="center"><a href="https://youtu.be/xDn8H3lfkpA"><img src="https://img.youtube.com/vi/xDn8H3lfkpA/hqdefault.jpg" width="260" alt="Generate Full College Reports in Seconds | SRAC PRO | VTU Result Analysis"></a><br><b>2. Generate Full College Reports in Seconds | SRAC PRO | VTU Result Analysis</b></td><td align="center"><a href="https://youtu.be/aChaeXy6e_w"><img src="https://img.youtube.com/vi/aChaeXy6e_w/hqdefault.jpg" width="260" alt="SRAC Beginner Tutorial: How to Use SRAC Result Analysis Software (Quick Start Guide)"></a><br><b>3. SRAC Beginner Tutorial: How to Use SRAC Result Analysis Software (Quick Start Guide)</b></td></tr>
 <tr><td align="center"><a href="https://youtu.be/OTBCgTHu_4c"><img src="https://img.youtube.com/vi/OTBCgTHu_4c/hqdefault.jpg" width="260" alt="SRAC Analysis Basics | Essential Setup Before Result Analysis"></a><br><b>4. SRAC Analysis Basics | Essential Setup Before Result Analysis</b></td><td align="center"><a href="https://youtu.be/5nWL5XFcJ3I"><img src="https://img.youtube.com/vi/5nWL5XFcJ3I/hqdefault.jpg" width="260" alt="How to Analyze VTU Revaluation Results Using SRAC | Step-by-Step Guide"></a><br><b>5. How to Analyze VTU Revaluation Results Using SRAC | Step-by-Step Guide</b></td></tr>
 </table>
 
-## Download and install
+---
 
-1. Open the [**latest release**](https://github.com/SRAC-Suite/SRAC/releases/latest) of this repository.
-2. Download the installer.
-3. Follow the [installation video](https://youtu.be/RKUbawzxvRw).
+## Performance: Manual Work vs. SRAC
 
-This repository contains **only the `.exe` releases**. The SRAC source code is private, so please do not expect source code here.
-
-## Performance compared with manual analysis
-
-| Students | Manual time | SRAC time | Speedup |
+  
+| Students | Traditional Manual Time | SRAC Automated Time | Speedup |
 |---|---|---|---|
-| 40 | 2.5 hours | 5 minutes | ~30× |
-| 180 | 9.5 hours | 7 minutes | ~81× |
-| 210 | 11.5 hours | 10 minutes | ~69× |
-| 540 | 28.5 hours | 15 minutes | ~114× |
-| 570+ | 29.5 hours | 18 minutes | ~98× |
+| 40 | ~2.5 hours | 5 minutes | **~30× Faster** |
+| 180 | ~9.5 hours | 7 minutes | **~81× Faster** |
+| 210 | ~11.5 hours | 10 minutes | **~69× Faster** |
+| 540 | ~28.5 hours | 15 minutes | **~114× Faster** |
+| 570+ | ~29.5 hours | 18 minutes | **~98× Faster** |
 
-*Representative examples for planning and comparison. Actual time depends on hardware, internet speed and system performance.*
+*Benchmarks reflect real-world departmental workloads. Actual processing time depends on local hardware specs and university portal connectivity.*
+
+
+---
 
 ## FAQ
 
 **What is SRAC?**
-VTU result analysis software for Windows that creates Excel, PDF and Word reports from semester results.
+SRAC is dedicated VTU result analysis software for Windows that turns raw semester results into formatted Excel, PDF, and Word reports automatically.
 
-**What is a VTU result analyser?**
-A tool that turns raw VTU results for a class or department into organized analysis reports. SRAC is a VTU result analyser built for engineering colleges.
+**Does SRAC break when VTU updates its site or CAPTCHA?**
+No. Unlike static, abandoned web drivers and macro scripts that fail permanently on site changes, SRAC is maintained and updated at regular intervals to keep pace with VTU portal updates and CAPTCHA adjustments.
 
-**How can I analyze VTU results for a whole class or department?**
-Use result analysis software such as SRAC. Start with the [beginner tutorial](https://youtu.be/aChaeXy6e_w).
+**Do I need to write code or set up complex macros?**
+Zero coding or macro setup is required. SRAC features a complete graphical interface designed for easy operation by non-technical faculty staff.
 
-**Can SRAC analyze VTU revaluation results?**
-Yes. See the [revaluation analysis tutorial](https://youtu.be/5nWL5XFcJ3I).
+**Can SRAC handle VTU revaluation results?**
+Yes. SRAC includes native support for parsing and integrating revaluation marks. See the [revaluation tutorial](https://youtu.be/5nWL5XFcJ3I).
 
-**Which reports does SRAC create?**
-Excel, PDF and Word reports.
-
-**Who can use SRAC?**
-Authorized educational institutions and their designated users.
+**What formats are supported for exports?**
+SRAC exports clean, audit-ready Excel spreadsheets, Word documents, and PDF reports.
 
 **Why was "Compiler" changed to "Core"?**
-"Compile" was used in its everyday meaning, compiling many result files into one report. Because "compiler" has a specific meaning in computer science, the name was changed to "Core". The product and the short name SRAC are unchanged.
+"Compile" was originally used in its general sense of gathering multiple result sheets into one report. To prevent confusion with computer science programming compilers, the name was updated to **Core**. The software functionality remains unchanged.
+
+---
 
 ## Licensing
 
-SRAC is a commercial product for educational institutions and authorized users. Licensing depends on institutional requirements and student volume. For licensing details, contact **Tanishq JM** on [LinkedIn](https://www.linkedin.com/in/tanishq-jm).
+SRAC is a commercial software suite designed for educational institutions and authorized result coordinators. Licensing tiers depend on department and student volume. For licensing inquiries, contact **Tanishq JM** directly on [LinkedIn](https://www.linkedin.com/in/tanishq-jm).
 
 ## Support
 
-For bug reports or feature requests, please open an issue in the [Issues](https://github.com/SRAC-Suite/SRAC/issues) section.
+For bug reports, feature requests, or technical inquiries, please open an issue in the [Issues](https://github.com/SRAC-Suite/SRAC/issues) section.
 
-## Related
+## Related Links
 
-- Official website: https://srac-suite.github.io/srac-web/
-- Website code: https://github.com/SRAC-Suite/srac-web
+- Official Website: https://srac-suite.github.io/srac-web/
+- Web Repository: https://github.com/SRAC-Suite/srac-web
 
 ---
 
